@@ -1,2 +1,0 @@
-# DeepHashingBaselines
-Deep Hashing Baselines
