@@ -22,20 +22,20 @@ Single-Modal Deep Hashing Methods
     Wu-Jun Li, Sheng Wang, Wang-Cheng Kang.
 [AAAI 2016] Deep Hashing Network for Efficient Similarity Retrieval [`paper <http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-hashing-network-aaai16.pdf>`_] [`code <https://github.com/thuml/hash-caffe>`_]
     Han Zhu, Mingsheng Long, Jiamin Wang, Yue Cao.
-[AAAI 2016] Deep Quantization Network for Efficient Image Retrieval [`paper <http://yue-cao.com/doc/deep-visual-semantic-quantization-cvpr17.pdf>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq/tree/aaai16-dqn>`_]
+[AAAI 2016] Deep Quantization Network for Efficient Image Retrieval [`paper <http://yue-cao.me/doc/deep-visual-semantic-quantization-cvpr17.pdf>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq/tree/aaai16-dqn>`_]
     Yue Cao, Mingsheng Long, Jiamin Wang, Han Zhu, Qingfu Wen.
 [CVPR 2016] Deep Supervised Hashing for Fast Image Retrieval [`paper <http://ieeexplore.ieee.org/document/7780596/>`_] [`code <https://github.com/lhmRyan/deep-supervised-hashing-DSH>`_]
     Haomiao Liu, Ruiping Wang, Shiguang Shan, Xilin Chen.
-[CVPR 2017] Deep Visual-Semantic Quantization for Efficient Image Retrieval [`paper <http://yue-cao.com/doc/deep-visual-semantic-quantization-cvpr17.pdf>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq>`_]
+[CVPR 2017] Deep Visual-Semantic Quantization for Efficient Image Retrieval [`paper <http://yue-cao.me/doc/deep-visual-semantic-quantization-cvpr17.pdf>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq>`_]
     Yue Cao, Mingsheng Long, Jiamin Wang, Shichen Liu.
 
 Cross-Modal Deep Hashing Methods
 -------------------
 [KDD 2016] Deep Visual-Semantic Hashing for Cross-Modal Retrieval [`paper <http://www.kdd.org/kdd2016/papers/files/rpp0086-caoA.pdf>`_]
     Yue Cao, Mingsheng Long, Jianmin Wang, Qiang Yang, Philip S. Yu.
-[ICMR 2016] Correlation Autoencoder Hashing for Supervised Cross-Modal Search [`paper <http://yue-cao.com/doc/correlation-autoencoder-hashing-cah-icmr16>`_]
+[ICMR 2016] Correlation Autoencoder Hashing for Supervised Cross-Modal Search [`paper <http://yue-cao.me/doc/correlation-autoencoder-hashing-cah-icmr16>`_]
     Yue Cao, Mingsheng Long, Jianmin Wang, Han Zhu.
-[AAAI 2017] Collective Deep Quantization for Efficient Cross-Modal Retrieval [`paper <http://yue-cao.com/doc/collective-deep-quantization-aaai17>`_] [`code <https://github.com/caoyue10/aaai17-cdq>`_]
+[AAAI 2017] Collective Deep Quantization for Efficient Cross-Modal Retrieval [`paper <http://yue-cao.me/doc/collective-deep-quantization-aaai17>`_] [`code <https://github.com/caoyue10/aaai17-cdq>`_]
     Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu.
 [CVPR 2017] Deep Cross-Modal Hashing [`paper <https://cs.nju.edu.cn/lwj/paper/CVPR17_DCMH.pdf>`_] [`code <https://cs.nju.edu.cn/lwj/code/DCMH_tensorflow.zip>`_]
     Qing-Yuan Jiang, Wu-Jun Li.
