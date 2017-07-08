@@ -14,7 +14,7 @@ Single-Modal Deep Hashing Methods
     Jiaming Xu, PengWang, Guanhua Tian, Bo Xu, Jun Zhao, Fangyuan Wang, Hongwei Hao.
 [CVPR 2015] Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval [`paper <http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Deep_Semantic_Ranking_2015_CVPR_paper.pdf>`_] [`code <https://github.com/zhaofang0627/cuda-convnet-for-hashing>`_]
     Fang Zhao, Yongzhen Huang, Liang Wang, Tieniu Tan.
-[AAAI 2015] Deep Hashing for Compact Binary Codes Learning [`paper <https://sites.google.com/site/elujiwen/CVPR15b.pdf?attredirects=0&amp;d=1>`_]
+[AAAI 2015] Deep Hashing for Compact Binary Codes Learning [`paper <http://ieeexplore.ieee.org/document/7298862/>`_]
     Venice Erin Liong, Jiwen Lu, Gang Wang, Pierre Moulin, Jie Zhou.
 [CVPRW 2015] Deep Learning of Binary Hash Codes for Fast Image Retrieval [`paper <http://www.iis.sinica.edu.tw/%7Ekevinlin311.tw/cvprw15.pdf>`_] [`code <https://github.com/kevinlin311tw/caffe-cvprw15>`_]
     Kevin Lin, Huei-Fang Yang, Jen-Hao Hsiao, Chu-Song Chen.
