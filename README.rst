@@ -22,7 +22,7 @@ Single-Modal Deep Hashing Methods
     Wu-Jun Li, Sheng Wang, Wang-Cheng Kang.
 [AAAI 2016] Deep Hashing Network for Efficient Similarity Retrieval [`paper <http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-hashing-network-aaai16.pdf>`_] [`code <https://github.com/thuml/hash-caffe>`_]
     Han Zhu, Mingsheng Long, Jiamin Wang, Yue Cao.
-[AAAI 2016] Deep Quantization Network for Efficient Image Retrieval [`paper <http://yue-cao.me/doc/deep-visual-semantic-quantization-cvpr17.pdf>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq/tree/aaai16-dqn>`_]
+[AAAI 2016] Deep Quantization Network for Efficient Image Retrieval [`paper <http://yue-cao.me/doc/deep-quantization-networks-dqn-aaai16.pdf>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq/tree/aaai16-dqn>`_]
     Yue Cao, Mingsheng Long, Jiamin Wang, Han Zhu, Qingfu Wen.
 [CVPR 2016] Deep Supervised Hashing for Fast Image Retrieval [`paper <http://ieeexplore.ieee.org/document/7780596/>`_] [`code <https://github.com/lhmRyan/deep-supervised-hashing-DSH>`_]
     Haomiao Liu, Ruiping Wang, Shiguang Shan, Xilin Chen.
