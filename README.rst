@@ -33,9 +33,9 @@ Cross-Modal Deep Hashing Methods
 -------------------
 [KDD 2016] Deep Visual-Semantic Hashing for Cross-Modal Retrieval [`paper <http://www.kdd.org/kdd2016/papers/files/rpp0086-caoA.pdf>`_]
     Yue Cao, Mingsheng Long, Jianmin Wang, Qiang Yang, Philip S. Yu.
-[ICMR 2016] Correlation Autoencoder Hashing for Supervised Cross-Modal Search [`paper <http://yue-cao.me/doc/correlation-autoencoder-hashing-cah-icmr16>`_]
+[ICMR 2016] Correlation Autoencoder Hashing for Supervised Cross-Modal Search [`paper <http://yue-cao.me/doc/correlation-autoencoder-hashing-cah-icmr16.pdf>`_]
     Yue Cao, Mingsheng Long, Jianmin Wang, Han Zhu.
-[AAAI 2017] Collective Deep Quantization for Efficient Cross-Modal Retrieval [`paper <http://yue-cao.me/doc/collective-deep-quantization-aaai17>`_] [`code <https://github.com/caoyue10/aaai17-cdq>`_]
+[AAAI 2017] Collective Deep Quantization for Efficient Cross-Modal Retrieval [`paper <http://yue-cao.me/doc/collective-deep-quantization-aaai17.pdf>`_] [`code <https://github.com/caoyue10/aaai17-cdq>`_]
     Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu.
 [CVPR 2017] Deep Cross-Modal Hashing [`paper <https://cs.nju.edu.cn/lwj/paper/CVPR17_DCMH.pdf>`_] [`code <https://cs.nju.edu.cn/lwj/code/DCMH_tensorflow.zip>`_]
     Qing-Yuan Jiang, Wu-Jun Li.
