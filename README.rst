@@ -16,7 +16,7 @@ Single-Modal Deep Hashing Methods
     Fang Zhao, Yongzhen Huang, Liang Wang, and Tieniu Tan.
 [AAAI 2015] Deep Hashing for Compact Binary Codes Learning [paper]
     Venice Erin Liong, Jiwen Lu, Gang Wang, Pierre Moulin, and Jie Zhou.
-[CVPRW 2015] Deep Learning of Binary Hash Codes for Fast Image Retrieval [questions]
+[CVPRW 2015] Deep Learning of Binary Hash Codes for Fast Image Retrieval [paper]
     Kevin Lin, Huei-Fang Yang, Jen-Hao Hsiao, and Chu-Song Chen.
 [IJCAI 2016] Feature Learning based Deep Supervised Hashing with Pairwise Labels [code]
     Wu-Jun Li, Sheng Wang and Wang-Cheng Kang.
@@ -29,7 +29,7 @@ Single-Modal Deep Hashing Methods
 
 Cross-Modal Deep Hashing Methods
 -------------------
-[KDD 2016]Deep Visual-Semantic Hashing for Cross-Modal Retrieval 
+[KDD 2016] Deep Visual-Semantic Hashing for Cross-Modal Retrieval 
     Yue Cao, Mingsheng Long, Jianmin Wang, Qiang Yang, Philip S. Yu.
 [AAAI 2017] Collective Deep Quantization for Efficient Cross-Modal Retrieval 
     Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu.
