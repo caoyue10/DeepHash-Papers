@@ -31,5 +31,7 @@ Cross-Modal Deep Hashing Methods
 -------------------
 [KDD 2016]Deep Visual-Semantic Hashing for Cross-Modal Retrieval 
     Yue Cao, Mingsheng Long, Jianmin Wang, Qiang Yang, Philip S. Yu.
+[AAAI 2017] Collective Deep Quantization for Efficient Cross-Modal Retrieval 
+    Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu.
 [BMVC 2017] Correlation Hashing Network for Efficient Cross-Modal Retrieval
     Yue Cao, Mingsheng Long, Jianmin Wang.
