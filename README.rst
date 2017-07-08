@@ -24,6 +24,8 @@ Single-Modal Deep Hashing Methods
     Han Zhu, Mingsheng Long, Jiamin Wang, Yue Cao.
 [AAAI 2016] Deep Quantization Network for Efficient Image Retrieval [`paper <http://yue-cao.com/doc/deep-visual-semantic-quantization-cvpr17.pdf/>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq/tree/aaai16-dqn/>`_]
     Yue Cao, Mingsheng Long, Jiamin Wang, Han Zhu, Qingfu Wen.
+[CVPR 2016] Deep Supervised Hashing for Fast Image Retrieval [`paper <http://ieeexplore.ieee.org/document/7780596//>`_] [`code <https://github.com/lhmRyan/deep-supervised-hashing-DSH/>`_]
+    Haomiao Liu, Ruiping Wang, Shiguang Shan, Xilin Chen.
 [CVPR 2017] Deep Visual-Semantic Quantization for Efficient Image Retrieval [`paper <http://yue-cao.com/doc/deep-visual-semantic-quantization-cvpr17.pdf/>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq/>`_]
     Yue Cao, Mingsheng Long, Jiamin Wang, Shichen Liu.
 
