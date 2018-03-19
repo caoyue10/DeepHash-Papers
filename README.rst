@@ -1,6 +1,8 @@
 DeepHashingBaselines
 =======
 
+Any changes are welcomed.
+
 Single-Modal Deep Hashing Methods
 -------------------
 
