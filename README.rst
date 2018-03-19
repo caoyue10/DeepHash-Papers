@@ -26,8 +26,17 @@ Single-Modal Deep Hashing Methods
     Yue Cao, Mingsheng Long, Jiamin Wang, Han Zhu, Qingfu Wen.
 [CVPR 2016] Deep Supervised Hashing for Fast Image Retrieval [`paper <http://ieeexplore.ieee.org/document/7780596/>`_] [`code <https://github.com/lhmRyan/deep-supervised-hashing-DSH>`_]
     Haomiao Liu, Ruiping Wang, Shiguang Shan, Xilin Chen.
+[SIGIR 2017] Deep Semantic Hashing with Generative Adversarial Networks
+ [`paper <http://zhaofanqiu.deepfun.club/papers/SIGIR17HASH.pdf>`_]
+    Zhaofan Qiu, Yingwei Pan, Ting Yao, Tao Mei.
 [CVPR 2017] Deep Visual-Semantic Quantization for Efficient Image Retrieval [`paper <http://yue-cao.me/doc/deep-visual-semantic-quantization-cvpr17.pdf>`_] [`code <https://github.com/caoyue10/cvpr17-dvsq>`_]
-    Yue Cao, Mingsheng Long, Jiamin Wang, Shichen Liu.
+    Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu.
+[ICCV 2017] HashNet: Deep Learning to Hash by Continuation [`paper <http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashnet-iccv17.pdf>`_] [`code <https://github.com/thuml/HashNet>`_]
+    Zhangjie Cao, Mingsheng Long, Jianmin Wang, Philip S. Yu.
+[CVPR 2018] HashGAN: Deep Learning to Hash with Pair Conditional Wasserstein GAN 
+    Yue Cao, Mingsheng Long, Bin Liu, Jiamin Wang.
+[CVPR 2018] Deep Cauchy Hashing for Hamming Space Retrieval
+    Yue Cao, Mingsheng Long, Bin Liu, Jianmin Wang.
 
 Cross-Modal Deep Hashing Methods
 -------------------
