@@ -34,9 +34,9 @@ Single-Modal Deep Hashing Methods
     Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu.
 [ICCV 2017] HashNet: Deep Learning to Hash by Continuation [`paper <http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashnet-iccv17.pdf>`_] [`code <https://github.com/thuml/HashNet>`_]
     Zhangjie Cao, Mingsheng Long, Jianmin Wang, Philip S. Yu.
-[CVPR 2018] HashGAN: Deep Learning to Hash with Pair Conditional Wasserstein GAN 
+[CVPR 2018] HashGAN: Deep Learning to Hash with Pair Conditional Wasserstein GAN [`paper <http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashgan-cvpr18.pdf>`_]
     Yue Cao, Mingsheng Long, Bin Liu, Jiamin Wang.
-[CVPR 2018] Deep Cauchy Hashing for Hamming Space Retrieval
+[CVPR 2018] Deep Cauchy Hashing for Hamming Space Retrieval [`paper <http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-cauchy-hashing-cvpr18.pdf>`_] [`code <https://github.com/thuml/DeepHash>`_]
     Yue Cao, Mingsheng Long, Bin Liu, Jianmin Wang.
 
 Cross-Modal Deep Hashing Methods
