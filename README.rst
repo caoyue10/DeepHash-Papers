@@ -1,5 +1,9 @@
-DeepHashingBaselines
+DeepHash-Papers
 =======
+
+Contributed by [Yue Cao](http://yue-cao.me/) and Bin Liu.
+
+We release [DeepHash](https://github.com/thulab/deephash), an open source library for deep learning to hash. This repository provides a standard deep hash training and testing framework. Currently, the implemented models in DeepHash include DHN, DQN, DVSQ, and DCH.
 
 Any changes are welcomed.
 
