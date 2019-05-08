@@ -44,7 +44,7 @@ Single-Modal Deep Hashing Methods
     Yue Cao, Mingsheng Long, Bin Liu, Jianmin Wang.
 [CVPR 2018] Hashing as Tie-Aware Learning to Rank [`paper <http://openaccess.thecvf.com/content_cvpr_2018/html/He_Hashing_as_Tie-Aware_CVPR_2018_paper.html>`_] [`code <https://github.com/kunhe/TALR>`_]
     Kun He, Fatih Cakir, Sarah Adel Bargal, Stan Sclaroff. 
-[EECV 2018] Hashing with Binary Matrix Pursuit [`paper <https://arxiv.org/abs/1808.01990>`_] [`code <https://github.com/fcakir/hbmp>`_]
+[ECCV 2018] Hashing with Binary Matrix Pursuit [`paper <https://arxiv.org/abs/1808.01990>`_] [`code <https://github.com/fcakir/hbmp>`_]
     Fatih Cakir, Kun He, Stan Sclaroff. 
 [TPAMI 2019] Hashing with Mutual Information [`paper <http://arxiv.org/abs/1803.00974>`_] [`code <https://github.com/fcakir/deep-mihash/>`_]
     Fatih Cakir*, Kun He*, Sarah Adel Bargal, Stan Sclaroff (equal contrib.). 
